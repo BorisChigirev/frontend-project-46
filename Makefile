@@ -4,6 +4,9 @@ install:
 publish:
 	npm publish --dry-run
 
+gendiff:
+	node bin/gendiff
+
 lint:
 	npx eslint .
 
@@ -12,5 +15,3 @@ test:
 
 test-coverage:
 	npx jest --coverage
-
-node bin/gendiff.js
