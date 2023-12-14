@@ -2,10 +2,9 @@
 
 ## Hexlet tests and linter status:
 [![Actions Status](https://github.com/BorisChigirev/frontend-project-46/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/BorisChigirev/frontend-project-46/actions)
-
 [![Node CI](https://github.com/BorisChigirev/frontend-project-46/actions/workflows/nodejs.yml/badge.svg)](https://github.com/BorisChigirev/frontend-project-46/actions/workflows/nodejs.yml)
-
 [![Maintainability](https://api.codeclimate.com/v1/badges/ea6969aca8213e035203/maintainability)](https://codeclimate.com/github/BorisChigirev/frontend-project-46/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/ea6969aca8213e035203/test_coverage)](https://codeclimate.com/github/BorisChigirev/frontend-project-46/test_coverage)
 
 ## Compares two JSON or YAML files and shows the difference.
 
